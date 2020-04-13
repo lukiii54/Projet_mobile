@@ -1,0 +1,23 @@
+@import './animate.scss';
+
+page {
+
+    color: black;
+
+     button {
+        background-color: rgb(57, 87, 223);
+        color: white;
+     }
+
+     actionItem {
+      background-color: blue;
+      color: black;
+    }
+
+    .btn-danger {
+      background-color: darkred;
+    }
+
+
+}
+
